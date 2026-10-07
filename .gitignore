@@ -1,0 +1,11 @@
+node_modules/
+tools/
+github-upload/
+.runtime/
+*.zip
+.sites-local/
+*.pcap
+*.pcapng
+!dist/demo.pcap
+*.tar.gz
+*.tar

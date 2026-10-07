@@ -1,0 +1,1 @@
+{"name":"packet-lens","private":true,"type":"module","scripts":{"test":"node --test tests/*.test.mjs","start":"node serve.mjs","start:network":"node serve.mjs --lan"}}
